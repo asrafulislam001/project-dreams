@@ -1,0 +1,13 @@
+============ font family ============
+font-family: 'Noto Sans', sans-serif; -body - paragraph
+font-family: 'Montserrat', sans-serif; - heading
+
+================ color ================
+white: #ffffff
+Deep black: #111111
+Black: #222222
+gray: #888888
+deep light gray: #777777
+light gray: #f7f7f7 -bg color
+blue: #35c2f8
+light blue: #ceeefa 
